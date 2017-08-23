@@ -1,0 +1,15 @@
+.errorText
+{
+	float: center;
+	text-align: left;
+	width: 20em;
+	margin-bottom: 12px;
+	margin-left: 10px;
+	font-weight: bold;
+	color: red;
+	font-size:1em;
+}
+label{
+	text-align: right;
+	width: 20em;
+}
